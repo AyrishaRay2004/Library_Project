@@ -5,28 +5,28 @@ A PHP and Oracle-based Library Management System.
 ## Project Screenshots
 
 ### Login Page
-![Login Page](Screenshots/login_page/index_Page1.jpg)
-![Login Page](Screenshots/login_page/index_Page2.jpg)
+![Login Page](Screenshots/login_page/index_Page1.JPG)
+![Login Page](Screenshots/login_page/index_Page2.JPG)
 
 ### Admin Dashboard
-![Admin Dashboard](Screenshots/AdminDashboard.jpg)
+![Admin Dashboard](Screenshots/AdminDashboard.JPG)
 
 ### Form (On filling the form the data get stored in the database)
-![Admin Dashboard](Screenshots/adddetailstodatabase.jpg)
+![Admin Dashboard](Screenshots/adddetailstodatabase.JPG)
 
 ### Reports
-![Reports](Screenshots/Reports/report1.jpg)
-![Reports](Screenshots/Reports/report2.jpg)
-![Reports](Screenshots/Reports/report3.jpg)
+![Reports](Screenshots/Reports/report1.JPG)
+![Reports](Screenshots/Reports/report2.JPG)
+![Reports](Screenshots/Reports/report3.JPG)
 
 ### Visual Report
-![Visual Report](Screenshots/charts.jpg)
+![Visual Report](Screenshots/charts.JPG)
 
 ### Fine Receipt
-![Fine Receipt](Screenshots/FineReceipt.jpg)
+![Fine Receipt](Screenshots/FineReceipt.JPG)
 
 ### Database
-![Database](Screenshots/database.jpg)
+![Database](Screenshots/database.JPG)
 
 
 ## Features
