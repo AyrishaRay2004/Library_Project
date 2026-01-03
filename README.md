@@ -2,6 +2,33 @@
 
 A PHP and Oracle-based Library Management System.
 
+## Project Screenshots
+
+### Login Page
+![Login Page](Screenshots/login_page/index_Page1.jpg)
+![Login Page](Screenshots/login_page/index_Page2.jpg)
+
+### Admin Dashboard
+![Admin Dashboard](Screenshots/AdminDashboard.jpg)
+
+### Form (On filling the form the data get stored in the database)
+![Admin Dashboard](Screenshots/adddetailstodatabase.jpg)
+
+### Reports
+![Reports](Screenshots/Reports/report1.jpg)
+![Reports](Screenshots/Reports/report2.jpg)
+![Reports](Screenshots/Reports/report3.jpg)
+
+### Visual Report
+![Visual Report](Screenshots/charts.jpg)
+
+### Fine Receipt
+![Fine Receipt](Screenshots/FineReceipt.jpg)
+
+### Database
+![Database](Screenshots/database.jpg)
+
+
 ## Features
 - Author, Book, Member Management
 - Borrow & Return Records
