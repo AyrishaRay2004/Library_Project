@@ -9,10 +9,10 @@ A PHP and Oracle-based Library Management System.
 ![Login Page](Screenshots/login_page/index_Page2.JPG)
 
 ### Admin Dashboard
-![Admin Dashboard](Screenshots/AdminDashboard.JPG)
+![Admin Dashboard](Screenshots/AdminDashBoard.JPG)
 
 ### Form (On filling the form the data get stored in the database)
-![Admin Dashboard](Screenshots/adddetailstodatabase.JPG)
+![Form](Screenshots/adddetailstodatabase.JPG)
 
 ### Reports
 ![Reports](Screenshots/Reports/report1.JPG)
