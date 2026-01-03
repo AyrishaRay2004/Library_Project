@@ -18,7 +18,7 @@ A PHP and Oracle-based Library Management System.
 
 
 ### Form (On filling the form the data get stored in the database)
-![Form](Screenshots/add details to database.JPG)
+![Form](Screenshots/Form.JPG)
 
 
 ### Reports
